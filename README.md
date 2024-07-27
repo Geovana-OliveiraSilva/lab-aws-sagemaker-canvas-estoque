@@ -31,6 +31,8 @@ Google Colab (para execução do script Python que gera o CSV e faz dowload)
 ## 🎯 Objetivos Deste Desafio de Projeto (Lab)
 Aprender a utilizar dados com o Amazon SageMaker Canvas com o objetivo de prever o estoque de produtos com base em várias características e dados históricos.
 
+## 🚀 Passo a Passo
+
 ### 1. Selecionar Dataset
 
 ## Passo 1: Login na AWS
