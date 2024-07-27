@@ -33,7 +33,7 @@ Aprender a utilizar dados com o Amazon SageMaker Canvas com o objetivo de prever
 
 ## 🚀 Passo a Passo
 
-### 1. Selecionar Dataset
+###  SELECIONAR DATASET
 
 ## Passo 1: Login na AWS
 
@@ -53,13 +53,13 @@ Aprender a utilizar dados com o Amazon SageMaker Canvas com o objetivo de prever
 
 ![c0214dcb-7d07-4bb8-8eea-285feabb9538](https://github.com/user-attachments/assets/47802565-482c-4005-8f5f-9ee5a4c281e5)
 
-## Passo 6 - Selecionar Dataset 
+## Passo Final - Selecionar Dataset 
 
 ![b2749700-7793-4ad7-a008-1feda5573e7e](https://github.com/user-attachments/assets/1c5f0fe0-c4bb-49de-b7e6-105724d0fde8)
 
 
-### 2. Construir/Treinar
+### CONSTRUIR/TREINAR
 
-### 3. Analisar
+### ANALISAR
 
-### 4. Prever
+### PREVER
