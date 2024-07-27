@@ -6,6 +6,7 @@ Este projeto demonstra a criação de um modelo de machine learning para previs�
 ## 🛠️ Ferramentas Utilizadas
 Amazon SageMaker Canvas
 Claude-3.5-Sonnet (para gerar o script Phyton do dataset)
+
 Google Colab (para execução do script Python que gera o CSV e faz dowload)
 
 ## 📋 Pré-requisitos
