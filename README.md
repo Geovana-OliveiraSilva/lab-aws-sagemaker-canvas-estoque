@@ -34,7 +34,8 @@ Aprender a utilizar dados com o Amazon SageMaker Canvas com o objetivo de prever
 ## 🚀 Passo a Passo
 
 ###  SELECIONAR DATASET
-O modelo utilizado foi gerado por meio do script Phyton no Colab e foi disponibilizado na pasta datasets mas é possivel gerar seu proprio utiizando o script abaixo:
+O dataset utilizado neste projeto foi gerado através de um script Python executado no Google Colab. Embora o arquivo resultante esteja disponível na pasta 'datasets', você tem a opção de criar seu próprio dataset personalizado utilizando o script fornecido abaixo.
+
 [Gerador de Dataset ](https://colab.research.google.com/drive/1x-nokxllBSdfPPB55PRLMjQzgfR5EBkj?usp=sharing)
 
 ## Passo 1: Login na AWS
