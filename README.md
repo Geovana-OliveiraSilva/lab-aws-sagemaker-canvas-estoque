@@ -137,7 +137,9 @@ O Single Prediction (Predição Única) é uma funcionalidade do Amazon SageMake
 ## Legenda Linhas
 
 P10 LINHA ROSA
+
 P50 LINHA VERDE
+
 P90 LINHA AMARELO
 
 ## Item 3
@@ -145,8 +147,11 @@ P90 LINHA AMARELO
 ![single_prediction_results](https://github.com/user-attachments/assets/5652931b-b3de-41f1-94c3-33e73c43a5f7)
 
 Demanda Histórica: 72
+
 P10 (Pessimista): 63.119
+
 P50 (Neutro): 64.238
+
 P90 (Otimista): 65.231
 
 
@@ -156,8 +161,11 @@ P90 (Otimista): 65.231
 
 
 Demanda Histórica: 74
+
 P10 (Pessimista): 63.031
+
 P50 (Neutro): 68.529
+
 P90 (Otimista): 73.486
 
 
@@ -166,8 +174,11 @@ P90 (Otimista): 73.486
 ![single_prediction_results (1)](https://github.com/user-attachments/assets/2e193d1f-60b9-4395-8120-85560781c64c)
 
 Demanda Histórica: 21
+
 P10 (Pessimista): 16.488
+
 P50 (Neutro): 50.625
+
 P90 (Otimista): 105.073
 
 
@@ -176,7 +187,10 @@ P90 (Otimista): 105.073
 ![single_prediction_results](https://github.com/user-attachments/assets/9acd033f-ca2c-498d-bac8-911971fe3192)
 
 Demanda Histórica: 78
+
 P10 (Pessimista): 67.487
+
 P50 (Neutro): 69.842
+
 P90 (Otimista): 73.855
 
