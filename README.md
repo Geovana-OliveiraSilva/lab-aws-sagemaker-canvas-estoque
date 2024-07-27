@@ -5,6 +5,7 @@ Este projeto demonstra a criação de um modelo de machine learning para previs�
 
 ## 🛠️ Ferramentas Utilizadas
 Amazon SageMaker Canvas
+
 Claude-3.5-Sonnet (para gerar o script Phyton do dataset)
 
 Google Colab (para execução do script Python que gera o CSV e faz dowload)
@@ -12,15 +13,19 @@ Google Colab (para execução do script Python que gera o CSV e faz dowload)
 ## 📋 Pré-requisitos
 ## Conta Poe (para acessar o Claude-3.5-Sonnet)
   [Criar uma conta no Poe](https://poe.com/login)
+  
   [Acessar o Claude-3.5-Sonnet no Poe](https://poe.com/Claude-3-Sonnet)
  
 ## Conta no Google (para acessar o Google Colab)
    [Criar uma conta Google](https://accounts.google.com/signup)
+   
    [Acessar o Google Colab](https://colab.research.google.com/)
 
 ## Conta AWS ativa( para acessar o SageMaker Canva)
    [Criar uma conta AWS](https://portal.aws.amazon.com/billing/signup)
+   
    [Acessar o Amazon SageMaker Canvas](https://aws.amazon.com/sagemaker/canvas/)
+   
    [Guia de introdução ao SageMaker Canvas](https://docs.aws.amazon.com/sagemaker/latest/dg/canvas-getting-started.html)
      
 ## 🎯 Objetivos Deste Desafio de Projeto (Lab)
