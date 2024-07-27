@@ -194,3 +194,6 @@ P50 (Neutro): 69.842
 
 P90 (Otimista): 73.855
 
+## 🙏 Agradecimentos
+
+Agradeço à Digital Innovation One, Nexa e à AWS por fornecerem os recursos e conhecimentos necessários para a realização deste projeto.
