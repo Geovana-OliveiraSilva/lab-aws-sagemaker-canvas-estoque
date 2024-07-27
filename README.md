@@ -33,32 +33,25 @@ Aprender a utilizar dados com o Amazon SageMaker Canvas com o objetivo de prever
 
 ### 1. Selecionar Dataset
 
-Passo 1-Login 
+## Passo 1: Login na AWS
 
- Passo 2.
- 
- Pesquisa(1) e Escolha do Serviço SageMaker(2)
+## Passo 2: Pesquisa e Escolha do Serviço SageMaker
  
 ![77257494-1001-413c-a2be-ca3cdbb91bd2](https://github.com/user-attachments/assets/79e34b7a-eadf-4ae3-9b3d-37ff86d4f3d3)
 
- Passo 3.
- 
- Escolha do Aplicativo Canva 
+## Passo 3: Escolha do Aplicativo Canvas
 
 ![a2dd08b4-30bd-44d9-9b28-91f61e1f573f](https://github.com/user-attachments/assets/59bf989e-a44a-411c-88b4-6b619a92dc9f)
 
- Passo 4.
- Abrir Aplicativo Canva 
+## Passo 4: Abrir Aplicativo Canvas
 
 ![d07c21fc-02ef-4518-86c9-8ad3720ad802](https://github.com/user-attachments/assets/609665f6-ef0e-4955-a785-d565e36127da)
 
- Passo 5.
- 
- Importar Dataset
- 
+## Passo 5: Importar Dataset
+
 ![c0214dcb-7d07-4bb8-8eea-285feabb9538](https://github.com/user-attachments/assets/47802565-482c-4005-8f5f-9ee5a4c281e5)
 
-Passo 6 - Selecionar Dataset 
+## Passo 6 - Selecionar Dataset 
 
 ![b2749700-7793-4ad7-a008-1feda5573e7e](https://github.com/user-attachments/assets/1c5f0fe0-c4bb-49de-b7e6-105724d0fde8)
 
